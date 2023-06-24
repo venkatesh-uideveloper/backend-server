@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://FEApp:N24QGGV3Y7hUAPZC@feappcluster.fgqekow.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
